@@ -75,7 +75,7 @@ In addition to software development, I also have expertise in DevOps, system arc
 
 ---
 
-### [Food Data Visualization](https://github.com/Leandro-Lucena/food-info-scrapper)
+### [Food Data Visualization](https://github.com/Leandro-Lucena/food-info-scraper)
 
 🚀 **Performance Highlight:**  
 This application efficiently extracts and processes food data. Using **C#** and **HtmlAgilityPack**, it scrapes **5,729 pages**, extracting and saving **215,494 rows** into the database **in under 5 minutes**! This demonstrates the power of **ASP.NET Core** in large-scale web scraping and data processing.
